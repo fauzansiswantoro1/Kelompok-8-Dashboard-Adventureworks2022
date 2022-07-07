@@ -5,28 +5,27 @@ Program Studi Sistem Informasi
 Fakultas Ilmu Komputer
 UPN "Veteran" Jawa Timur
 
-KELOMPOK 8 :
-IZZAH TAZKIYAH - 19082010002
-NI PUTU JEANNY M. - 19082010057
-BAGUS RIZKY PRASETYO - 19082010062
-MUHAMAD FAUZAN SISWANTORO - 19082010102
-SHAHARANI AZPRIYANNE C. - 19082010112
+# KELOMPOK 8 :
+- IZZAH TAZKIYAH - 19082010002
+- NI PUTU JEANNY M. - 19082010057
+- BAGUS RIZKY PRASETYO - 19082010062
+- MUHAMAD FAUZAN SISWANTORO - 19082010102
+- SHAHARANI AZPRIYANNE C. - 19082010112
 
-Langkah-langkah yang dibutuhkan untuk menjalankan app dengan baik :
-
-Install database server: MySql (disini kami menggunakan Xampp versi terbaru).
-Install software mysql management: phpMyAdmin dari Xampp (ATAU YG LAIN).
-Extract uasdwo.zip pada folder htdocs XAMPP (xampp/htdocs).
-Jalankan Xampp control panel.
-Start apache dan mysql server.
-Buka phpMyAdmin (localhost/phpmyadmin).
-Buat database dengan nama adventurework2022.
-Import file adventurework2022.sql ke dalam database adventurework2022.
-Di dalam folder ini terdapat folder dengan nama mondrian, kemudian pindahkan file tersebut ke dalam server Tomcat bawaan dari XAMPP (xampp/tomcat/webapps).
-Jalankan aplikasi dengan mengakses http://localhost/uasdwo
-untuk login masukkan 
-username : admin
-passwordnya : admin
+# Langkah-langkah yang dibutuhkan untuk menjalankan app dengan baik :
+1. Install database server: MySql (disini kami menggunakan Xampp versi terbaru).
+2. Install software mysql management: phpMyAdmin dari Xampp (ATAU YG LAIN).
+3. Extract uasdwo.zip pada folder htdocs XAMPP (xampp/htdocs).
+4. Jalankan Xampp control panel.
+5. Start apache dan mysql server.
+6. Buka phpMyAdmin (localhost/phpmyadmin).
+7. Buat database dengan nama adventurework2022.
+8. Import file adventurework2022.sql ke dalam database adventurework2022.
+9. Di dalam folder ini terdapat folder dengan nama mondrian, kemudian pindahkan file tersebut ke dalam server Tomcat bawaan dari XAMPP (xampp/tomcat/webapps).
+10. Jalankan aplikasi dengan mengakses http://localhost/uasdwo
+11. untuk login masukkan 
+- username : admin
+- passwordnya : admin
 
 
 ## [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
